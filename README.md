@@ -5,3 +5,8 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - API Discorda
 - youtube_dl
 - FFmpeg
+# Prace
+- stworzona została część responsywna z użytkownikiem
+- sekcja usuwająca niechciane wiadomości na dnaym kanale tekstowym
+- brak reakcji na akcje wykonywane przez bota
+- łączenie i rozłączanie się z danym kanałem muzycznym
