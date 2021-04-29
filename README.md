@@ -15,7 +15,7 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - brak akceptacji aplikacji FFmpeg przez Pycharm
 - potrzeba instalacji najnowszej wersji PyNaCl
 # Prace do ukończenia
-- automatyczna pobranie pliku dźwiękowego
+- automatyczne pobranie pliku dźwiękowego
 - automatyczna zmiana nazwy pliku dźwiękowego po zmianie piosenki
 - dodanie kolejki muzycznej
 - automatyczne dodanie kanału tekstowego tylko i wyłącznie do użycia komend aktywujących bota
