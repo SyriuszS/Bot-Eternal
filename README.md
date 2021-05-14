@@ -5,6 +5,7 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - API Discorda
 - youtube_dl
 - FFmpeg
+- PyNaCl
 # Ukończone
 - stworzona została część responsywna z użytkownikiem
 - sekcja usuwająca niechciane wiadomości na dnaym kanale tekstowym
