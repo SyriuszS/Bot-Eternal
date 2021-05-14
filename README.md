@@ -11,12 +11,14 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - brak reakcji na akcje wykonywane przez bota
 - łączenie i rozłączanie się z danym kanałem muzycznym
 - zatrzymywanie i wznawianie danej piosenki przekazanej drogą url z YouTube'a
+- funkcja pobierania pliku muzycznego
+- funkcja zmieniania nazwy pobranego pliku muzycznego, na zawsze song.mp3, dla łatwiejszego odtwarzania muzyki
+- dodanie kanału tektowego tylko i wyłącznie do komend muzycznych
 # Nieprzewidziane problemy
 - brak akceptacji aplikacji FFmpeg przez Pycharm
 - potrzeba instalacji najnowszej wersji PyNaCl
+- brak permisji, podczas kompilacji projektu do puszczania muzyki
+- potrzeba reinstalacji najnowszej wersji FFmpeg
 # Prace do ukończenia
-- automatyczne pobranie pliku dźwiękowego
-- automatyczna zmiana nazwy pliku dźwiękowego po zmianie piosenki
 - dodanie kolejki muzycznej
-- automatyczne dodanie kanału tekstowego tylko i wyłącznie do użycia komend aktywujących bota
 - automatyczne usuwanie komend na kanale muzycznym bota
