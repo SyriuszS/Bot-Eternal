@@ -21,5 +21,4 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - brak permisji, podczas kompilacji projektu do puszczania muzyki
 - potrzeba reinstalacji najnowszej wersji FFmpeg
 # Prace do ukończenia
-- dodanie kolejki muzycznej
 - automatyczne usuwanie komend na kanale muzycznym bota
