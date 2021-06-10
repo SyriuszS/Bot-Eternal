@@ -15,10 +15,10 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - funkcja pobierania pliku muzycznego
 - funkcja zmieniania nazwy pobranego pliku muzycznego, na zawsze song.mp3, dla łatwiejszego odtwarzania muzyki
 - dodanie kanału tektowego tylko i wyłącznie do komend muzycznych
+- automatyczne usuwanie komend na kanale muzycznym bota
 # Nieprzewidziane problemy
 - brak akceptacji aplikacji FFmpeg przez Pycharm
 - potrzeba instalacji najnowszej wersji PyNaCl
 - brak permisji, podczas kompilacji projektu do puszczania muzyki
 - potrzeba reinstalacji najnowszej wersji FFmpeg
-# Prace do ukończenia
-- automatyczne usuwanie komend na kanale muzycznym bota
+
