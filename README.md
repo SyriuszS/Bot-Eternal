@@ -8,7 +8,7 @@ Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Pyt
 - PyNaCl
 # Ukończone
 - stworzona została część responsywna z użytkownikiem
-- sekcja usuwająca niechciane wiadomości na dnaym kanale tekstowym
+- sekcja usuwająca niechciane wiadomości na danym kanale tekstowym
 - brak reakcji na akcje wykonywane przez bota
 - łączenie i rozłączanie się z danym kanałem muzycznym
 - zatrzymywanie i wznawianie danej piosenki przekazanej drogą url z YouTube'a
