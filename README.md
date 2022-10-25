@@ -1,5 +1,5 @@
 # Bot Eternal
-Tu będzie tworzony bot do Discorda, będę korzystał z technologii języka Python, kod będzie pisany w środowisku PyCharm Community Edition 2020.3.4. Bot będzie botem muzycznym (przekazujący muzykę z YouTube'a) oraz opisowym, będzie miał możliwość witania i informowania o statusach używających go użytkowników
+Bot do Discorda, korzystający z technologii języka Python, kod będzie pisany w środowisku PyCharm Community Edition 2020.3.4. Bot będzie botem muzycznym (przekazujący muzykę z YouTube'a) oraz opisowym, będzie miał możliwość witania i informowania o statusach używających go użytkowników
 # Technologie
 - Python
 - API Discorda
