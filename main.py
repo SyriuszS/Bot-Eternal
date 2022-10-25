@@ -35,7 +35,7 @@ async def play(ctx, url : str):
             os.rename(file, "song.mp3")
     voice.play(discord.FFmpegPCMAudio("song.mp3"))
 
-@client.command() #usunięcie bota z kanału
+@client.command() #remove bot
 async def go_away(ctx):
     voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
     if voice.is_connected():
